@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "c670d634d1fd4a0b80b085e442c24c89", 
+  "language": "eng_GB", 
+  "title": "Take Action!", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 17:58:13) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "take-action", 
+  "source": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
